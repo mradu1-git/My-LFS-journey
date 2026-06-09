@@ -1,0 +1,7 @@
+my-lfs-journey/
+├── README.md               # Your main project log, host specs (Ryzen 5, Ubuntu 26.04)
+├── scripts/                # Any automation bash scripts you write
+│   ├── download_sources.sh
+│   └── check_prereqs.sh
+├── config/                 # Your custom Linux kernel .config file
+└── logs/                   # Quick copy-pastes of weird compile errors you solved
